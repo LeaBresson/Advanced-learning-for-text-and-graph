@@ -1,4 +1,4 @@
-# ADVANCED-LEARNING-FOR-TEXT-AND-GRAPH-DATA
+# Advanced learning for text and graph data 
 
 Can you predict whether two short texts have the same meaning? 
 
